@@ -1,6 +1,6 @@
 | Virksomhed                                                                     | Adresse                                                                   | Fornyelsespris | Opdateret  | Kommentar                       |
 |--------------------------------------------------------------------------------|---------------------------------------------------------------------------|----------------|------------|---------------------------------|
-| A/S SCANNET                                                                    |  Højvangen 4, Skanderborg, Danmark                                        |                |            |                                 |
+| A/S SCANNET                                                                    |  Højvangen 4, Skanderborg, Danmark                                        | 148,75         | 24/10/2025 | Pris på salgssiden er uden moms |
 | Abion AB                                                                       |  Kungsgatan 42, Goteborg, Sverige                                         |                |            |                                 |
 | ASCIO TECHNOLOGIES, CORP. DANMARK - FILIAL AF ASCIO TECHNOLOGIES, CORP. CANADA |  Strandvejen 125, Hellerup, Danmark                                       |                |            |                                 |
 | AzeHosting ApS                                                                 |  Hornevej 7, Kastrup, Danmark                                             | 150            | 23/10/2025 | sat op fra 105 efter udmelding  |
