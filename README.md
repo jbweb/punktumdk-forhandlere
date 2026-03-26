@@ -81,4 +81,4 @@
 | Vautron Rechenzentrum AG                                                       |  Obermuensterstr. 9, Regensburg, Tyskland                                 |                |            |                                 |
 | WANNAFIND.DK A/S                                                               |  Højvangen 4, Skanderborg, Danmark                                        |                |            |                                 |
 | WEBBUREAUET INFOSERV ApS                                                       |  Niels Brocks Gade 8, 2., Randers C, Danmark                              |                |            |                                 |
-| WEBHOSTING A/S                                                                 |  Naverland 2, Glostrup, Danmark                                           | 89             | 23/10/2025 |                                 |
+| WEBHOSTING A/S                                                                 |  Naverland 2, Glostrup, Danmark                                           | 109            | 26/03/2026 |                                 |
